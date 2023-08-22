@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Álvaro Brito, Welcome!
 
 <br />
 
-I'm a self-taught passionate Software Architect from Brazil 🇧🇷
+I'm a passionate Software Architect from Brazil 🇧🇷
+Msc. in BigData Analytics - University of Liverpool
 
 **About me**
 
@@ -25,10 +26,10 @@ I'm a self-taught passionate Software Architect from Brazil 🇧🇷
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/alvarogomes/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogomes&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/alvarogomes/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvarogomes&repo=alvarogomes.github.io&theme=buefy" />
 </a>
 
