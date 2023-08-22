@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate Software Architect from Brazil 🇧🇷
+I'm a passionate Software/Data Architect from Brazil 🇧🇷
 Msc. in BigData Analytics - University of Liverpool
 
 **About me**
