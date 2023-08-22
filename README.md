@@ -3,6 +3,7 @@
 <br />
 
 I'm a passionate Software/Data Architect from Brazil 🇧🇷
+<br />
 Msc. in BigData Analytics - University of Liverpool
 
 **About me**
