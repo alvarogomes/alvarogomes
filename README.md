@@ -24,6 +24,8 @@ Msc. in BigData Analytics - University of Liverpool
 | ------------- | ------------- |
 
 **Contact me**
+<br />
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/alvarogomes#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alvarogomes#gh-dark-mode-only)
 
