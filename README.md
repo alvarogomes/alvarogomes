@@ -7,7 +7,7 @@ Msc. in BigData Analytics - University of Liverpool
 
 **About me**
 
-- 💼 Software Architect/CTO  at [Dataseed](http://live.site.dataseed.de)
+- 💼 CTO  at [Dataseed](http://live.site.dataseed.de)
 
 - ❤️ I love code in Java, Python, TypeScript, and building fun experiments on type-level
 
@@ -22,6 +22,10 @@ Msc. in BigData Analytics - University of Liverpool
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarogomes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/alvarogomes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogomes&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+**Contact me**
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/alvarogomes#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/alvarogomes#gh-dark-mode-only)
 
 <br />
 <br />
