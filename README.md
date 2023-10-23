@@ -8,8 +8,6 @@ Msc. in BigData Analytics - University of Liverpool
 
 **About me**
 
-- 💼 CTO  at [Dataseed](http://live.site.dataseed.de)
-
 - ❤️ I love code in Java, Python, TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/alvarogomes/alvarogomes/issues)
