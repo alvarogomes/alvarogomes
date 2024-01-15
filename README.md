@@ -12,7 +12,7 @@ Msc. in BigData Analytics - University of Liverpool
 
 - 💬 Ask me about anything [here](https://github.com/alvarogomes/alvarogomes/issues)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,aws,gcp,gitlab,k8s)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,ts,aws,gcp,gitlab,terraform,k8s)](https://skillicons.dev) 
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarogomes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/alvarogomes/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarogomes&layout=compact&theme=buefy&hide_border=true" /></a> |
